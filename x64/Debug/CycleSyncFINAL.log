@@ -1,5 +1,0 @@
-﻿  assignment3final.c
-C:\Users\dee_g\source\repos\CycleSyncFINAL\CycleSyncFINAL\assignment3final.c(478,22): warning C4101: 'cycles': unreferenced local variable
-C:\Users\dee_g\source\repos\CycleSyncFINAL\CycleSyncFINAL\assignment3final.c(484,9): warning C4101: 'displayDays': unreferenced local variable
-C:\Users\dee_g\source\repos\CycleSyncFINAL\CycleSyncFINAL\assignment3final.c(485,9): warning C4101: 'searchMonth': unreferenced local variable
-  CycleSyncFINAL.vcxproj -> C:\Users\dee_g\source\repos\CycleSyncFINAL\x64\Debug\CycleSyncFINAL.exe
